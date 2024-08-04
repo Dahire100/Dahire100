@@ -1,4 +1,4 @@
-![logo](https://github.com/Dahire100/Dahire100/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png)
+![logo](https://github.com/Dahire100/Dahire100/blob/main/LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Devendra Ahire</h1>
 <h3 align="center">A passionate web developer</h3>
 
